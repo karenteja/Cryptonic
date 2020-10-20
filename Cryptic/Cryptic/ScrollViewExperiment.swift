@@ -2,7 +2,7 @@
 //  ScrollViewExperiment.swift
 //  Cryptic
 //
-//  Created by Pavel Zaytsev on 9/20/20.
+//  Created by Karen Teja on 9/20/20.
 //  Copyright © 2020 Karen Teja. All rights reserved.
 //
 
